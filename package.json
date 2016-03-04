@@ -1,0 +1,19 @@
+{
+  "name": "learnspa",
+  "version": "1.0.0",
+  "description": "Lean SPA Web App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rtfmpliz",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rtfmpliz/learnspa.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rtfmpliz/learnspa/issues"
+  },
+  "homepage": "https://github.com/rtfmpliz/learnspa#readme"
+}
